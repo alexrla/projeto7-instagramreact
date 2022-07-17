@@ -1,4 +1,4 @@
-import storiesBackground from '../../../assets/img/stories_background2.png';
+import storiesBackground from '../../../../assets/img/stories_background2.png';
 
 import { 
     imagem1, 
