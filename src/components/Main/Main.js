@@ -1,6 +1,10 @@
+import Stories from "./Stories/Stories";
+
 const Main = () => {
     return (
-        <div>Main</div>
+        <main>
+            <Stories />
+        </main>
     )
 }
 
